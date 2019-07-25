@@ -75,6 +75,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564036122153" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -107,12 +108,12 @@
       <workItem from="1563246826718" duration="2244000" />
       <workItem from="1563410542824" duration="1787000" />
       <workItem from="1563849814816" duration="1990000" />
-      <workItem from="1564019152187" duration="1215000" />
+      <workItem from="1564019152187" duration="1809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7236000" />
+    <option name="totallyTimeSpent" value="7830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="28" width="1386" height="688" extended-state="0" />
